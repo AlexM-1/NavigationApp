@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1646379264_28-kartinkin-net-p-kartinki-parni-krasivie-31.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
